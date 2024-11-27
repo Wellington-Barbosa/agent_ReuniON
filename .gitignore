@@ -1,0 +1,22 @@
+# Diretórios e arquivos de ambiente virtual
+.venv/
+env/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Configurações específicas da IDE PyCharm
+.idea/
+
+# Arquivos de log
+*.log
+
+# Arquivo de variáveis de ambiente (credenciais)
+.env
+
+# Outros
+.DS_Store
+
+# Configurações sensíveis
+src/config/settings.py
